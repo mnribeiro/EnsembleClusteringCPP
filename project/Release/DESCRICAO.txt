@@ -1,0 +1,8 @@
+Descrição dos experimentos
+
+EXP_1 -> 5% de mutação, 10% das características na população inicial, fitness votacao por Dy
+EXP-2 -> 5% de mutação, 10% das características na população inicial, fitness rand ajustado com ensemble de cada geração
+EXP-3 -> 5% de mutação, 10% a 90% das características na população inicial, fitness rand ajustado com ensemble de cada geração
+EXP-4 -> 20% de mutação, 10% a 90% das características na população inicial, fitness rand ajustado com ensemble de cada geração
+EXP-5 -> 5% de mutação, 5% das características na população inicial, fitness rand ajustado com ensemble de cada geração
+EXP_PAISigualSOBREVIVENTES -> 5% de mutação, 10% a 90% das características na população inicial, fitness rand ajustado com ensemble de cada geração
